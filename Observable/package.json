@@ -1,0 +1,14 @@
+{
+  "name": "@mosab-rezaei/csci-627",
+  "main": "661ba50303c51083@1658.js",
+  "version": "1658.0.0",
+  "homepage": "https://observablehq.com/@mosab-rezaei/csci-627",
+  "author": {
+    "name": "Mosab Rezaei",
+    "url": "https://observablehq.com/@mosab-rezaei"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
