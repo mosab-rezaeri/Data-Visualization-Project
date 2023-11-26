@@ -1,4 +1,4 @@
-## Data Visualization Project - CSCI 627 (Draft)
+## Comparing the Different Abilities and Features of Soccer Players
 
 See the project [Here](https://observablehq.com/@mosab-rezaei/csci-627)
 
